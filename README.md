@@ -1,2 +1,1 @@
-## JS-vMac
-https://diamondda.github.io/js-vmac.github.io/
+<center><h2>A vMac-based web-side 68kMac emulator</h2></center>
