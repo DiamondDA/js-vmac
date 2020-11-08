@@ -1,4 +1,4 @@
-# JS-vMac
+# JS-Macintosh
 ###### Please read “index.md”or visit the website.
 
 diamondda.github.io/js-vmac.github.io/
