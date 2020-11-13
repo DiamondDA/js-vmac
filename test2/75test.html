@@ -33,10 +33,10 @@
           NP2Loader.mountZip("minivmac",
             NP2Loader.fetchFile("Mac ROM files",
               "macii.zip")),
-		  NP2Loader.mountZip("minivmac/",
+		  NP2Loader.mountZip("minivmac/75test/",
             NP2Loader.fetchFile("Disk files",
               "disk/75hfv.zip")),
-		NP2Loader.extraArgs("/emulator/minivmac/Sys.hfv")
+		NP2Loader.extraArgs("minivmac/75test/Sys.hfv")
 			  ));
 			  
       emulator.start({ waitAfterDownloading: true });
