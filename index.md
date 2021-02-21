@@ -4,9 +4,10 @@
 A vMac-based web-side 68kMac emulator.A javascript library that allows you to run 68k Macintosh system or apps in browser.
 <hr>
 #### Examples
-[Macintosh system software 7.0.1](https://diamondda.github.io/js-vmac.github.io/test2/mvmac2-os70x.html)
+[Macintosh system software 7.0.1](https://diamondda.github.io/js-vmac/test2/mvmac2-os70x.html)
 <hr>
-[Macintosh system software 6](https://diamondda.github.io/js-vmac.github.io/test2/mvmac2-os6x.html)
-[MacOS 7.5](https://diamondda.github.io/js-vmac.github.io/test2/75test.html)
+[Macintosh system software 6](https://diamondda.github.io/js-vmac/test2/mvmac2-os6x.html)
+<hr>
+[MacOS 7.5](https://diamondda.github.io/js-vmac/test2/75test.html)
 
 
